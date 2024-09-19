@@ -3,12 +3,12 @@
   "_v": 1,
   "mobile": "1.0.0",
   "collections": {
-    "active_principles": "1",
-    "animals": "3",
-    "drug_administration_routes": "1",
-    "medicine_categories": "1",
-    "medicines": "1",
-    "pathologies_functions": "1"
+    "active_principles": "1.0.0",
+    "animals": "1.0.0",
+    "drug_administration_routes": "1.0.0",
+    "medicine_categories": "1.0.0",
+    "medicines": "1.0.0",
+    "pathologies_functions": "1.0.0"
   },
   "created_at": 1726624293,
   "updated_at": 1726624293
