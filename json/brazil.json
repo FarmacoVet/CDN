@@ -3,30 +3,12 @@
   "_v": 1,
   "mobile": "1.0.0",
   "collections": {
-    "active_principles": {
-      "_v": "1.0.0",
-      "size": 28
-    },
-    "animals": {
-      "_v": "1.0.0",
-      "size": 8
-    },
-    "drug_administration_routes": {
-      "_v": "1.0.0",
-      "size": 8
-    },
-    "medicine_categories": {
-      "_v": "1.0.0",
-      "size": 38
-    },
-    "medicines": {
-      "_v": "1.0.0",
-      "size": 33
-    },
-    "pathologies_functions": {
-      "_v": "1.0.0",
-      "size": 127
-    }
+    "active_principles": { "_v": "1.0.0", "size": 28 },
+    "animals": { "_v": "1.0.0", "size": 8 },
+    "drug_administration_routes": { "_v": "1.0.0", "size": 7 },
+    "medicine_categories": { "_v": "1.0.0", "size": 38 },
+    "medicines": { "_v": "1.0.0", "size": 30 },
+    "pathologies_functions": { "_v": "1.0.0", "size": 127 }
   },
   "created_at": 1726624293,
   "updated_at": 1726624293
